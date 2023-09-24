@@ -13,6 +13,9 @@ Scikit-learn (sklearn)
 ## Data Preparation
 The code loads the consumer complaints dataset from the Consumer Financial Protection Bureau (CFPB) using the following URL: https://catalog.data.gov/dataset/consumer-complaint-database. This dataset contains information about consumer complaints, including the complaint narrative and the associated product category.
 
+![Task 6 Screenshot](screenshots/Task%206%20ss1.png)
+
+
 ## Text Preprocessing
 Before training the model, the code performs the following text preprocessing steps:
 
