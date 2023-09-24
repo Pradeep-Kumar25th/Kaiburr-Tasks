@@ -37,5 +37,5 @@ print("Predicted Category:", predicted_category[0])
 
 ![DS](screenshots/Task 6 ss3.png)
 
-![GetAllServ](screenshots/Task 6 ss3.png)
+![GetAllServ](Task 6/Task 6 ss3.png)
 
