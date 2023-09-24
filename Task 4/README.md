@@ -1,7 +1,5 @@
 # Task 4
 
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40/)
-
 **NOTE:** [README First](/README.md)
 
 ### Requirements
@@ -49,9 +47,9 @@ findServerByName(name);	//axios.get
 
 ![WebUiFormGIF](/screenshots/task4WebUiForm.gif)
 
-![WebUIForm](/screenshots/task4WebUIForm.PNG)
+![WebUIForm](/screenshots/task4WebUIForm.png)
 
-![CreateWebUIForm](/screenshots/createWebUIForm.PNG)
+![CreateWebUIForm](/screenshots/createWebUIForm.png)
 
 ## Containerizing the app
 
