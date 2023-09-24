@@ -1,6 +1,5 @@
 # Task 1
 
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40/)
 
 **NOTE:** [README First](/README.md)
 
@@ -86,11 +85,8 @@ You will see application logs in the terminal.
 
 ## Consuming APIs
 
-### Using Postman
 
-Run the following created collection to Test and consume the APIs
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5ff40fbad3968a1b28b0)
 
 **NOTE:** *The above collection is created and tested for `http://127.0.0.1:8080/servers/` endpoint*
 
