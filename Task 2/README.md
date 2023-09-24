@@ -1,6 +1,5 @@
 # Task 2
 
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40:8081/servers/)
 
 **NOTE:** [README First](/README.md)
 
