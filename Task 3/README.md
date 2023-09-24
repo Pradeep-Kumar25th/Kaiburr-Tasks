@@ -1,6 +1,6 @@
 # Task 3
 
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40/)
+
 
 **NOTE:** [README First](/README.md)
 
