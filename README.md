@@ -58,7 +58,7 @@ imbipulkumar <br/>
 
 ## Task 2
 
-**GOTO:**	[Task 2 Source Code and Documentation](/spring-server-generated)
+**GOTO:**	[Task 2 Source Code and Documentation]([/spring-server-generated](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%202))
 
 ![SwaggerUi](/screenshots/task2SwaggerDoc.PNG)
 
