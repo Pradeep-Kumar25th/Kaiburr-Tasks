@@ -71,31 +71,3 @@ imbipulkumar <br/>
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
-# *Task 5 Extra Miles
-
-![Extra Miles](/screenshots/extraMiles.png)
-
-As George Foreman said:
-
-> Heroes have a rough time because they stand up when they ought not to, they speak when they ought not to; they always have to go that extra mile.
-
-
-
-Following George Foreman, I went extra miles and **DESIGNED** beautiful yet responsive Web App, **BUILD** Containerize services and **DEPLOYED** the Project (all tasks included) live Amazon AWS EC2 instance.
-
-Link to live Application and Rest Endpoints:
-
-**GOTO Web App:**	[3.18.207.40](http://3.18.207.40/)
-
-**GOTO Swagger UI:** (OpenAPI Doc)	[3.18.207.40:8081/servers/](http://3.18.207.40:8081/servers/)
-
-**GOTO Rest Endpoints:**	[3.18.207.40:8080/servers/getServer](http://3.18.207.40:8080/servers/getServer)
-
-**HOSTED** container images on dockerhub for public consumption	[hub.docker.com/u/imbipulkumar](https://hub.docker.com/u/imbipulkumar)
-
-License
-----
-
-Unilicense
-
-**If you like the project then :star: Star the Repo and connect me on [Linkedin](https://www.linkedin.com/in/imbipulkumar/) :heart:.**
