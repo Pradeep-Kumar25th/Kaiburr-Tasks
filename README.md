@@ -75,8 +75,7 @@ imbipulkumar <br/>
 ![WebUiForms](screenshots/task4WebUIForm.png)
 
 ## Task 6
-**GOTO:**   [Task 6 Source Code and Documentation]([[/task6](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%206)](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%206))
-![WebUiForms](screenshots/Task 6 ss1.png)  screenshots/Task 6 ss3.png
-screenshots/Task 6 ss1.png
+**GOTO:**  [Task 4 Source Code and Documentation]([/task4](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%206))
 
+https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%206
 
