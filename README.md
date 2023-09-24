@@ -12,7 +12,7 @@ Kaiburr Assessment Tasks
 - [x] [Task 3. Docker compose]([/Task 3](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%203))
 - [x] [Task 4. WEB UI Forms]([/Task 4](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%204))
 - [x] [Task 6. Data Science example.
-](/Task 6)
+]([/Task 6](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%206))
 
 ## High-level Directory Overview
 
