@@ -37,7 +37,6 @@ After training the model, the code evaluates its performance by generating a cla
 ## Making Predictions
 The code also demonstrates how to make predictions using the trained model. You can provide a new complaint text as input, and the model will predict the associated product category.
 
-![WebUiForms](screenshots/task4WebUIForm.png)
 Copy code
 new_complaint = ["This is a new complaint text."]
 new_complaint_tfidf = tfidf_vectorizer.transform(new_complaint)
