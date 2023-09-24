@@ -6,7 +6,7 @@ Kaiburr Assessment Tasks
 
 ## Tasks Completed
 
-- [x] [Task 1. Java REST API]([/Task 3](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%201))
+- [x] [Task 1. Java REST API]([/Task 1](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%201))
 - [x] [Task 2. Swagger codegen]([[/Task 2](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%202))
 - [x] [Task 3. Docker compose]([/Task 3](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%203))
 - [x] [Task 4. WEB UI Forms]([/Task 4](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%204))
