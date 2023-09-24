@@ -13,7 +13,7 @@ Scikit-learn (sklearn)
 ## Data Preparation
 The code loads the consumer complaints dataset from the Consumer Financial Protection Bureau (CFPB) using the following URL: https://catalog.data.gov/dataset/consumer-complaint-database. This dataset contains information about consumer complaints, including the complaint narrative and the associated product category.
 
-![Task 6 Screenshot](screenshots/Task%206%20ss1.png)
+![Task 6 Screenshot](../screenshots/Task%206%20ss1.png)
 
 
 ## Text Preprocessing
@@ -38,8 +38,6 @@ new_complaint_tfidf = tfidf_vectorizer.transform(new_complaint)
 predicted_category = classifier.predict(new_complaint_tfidf)
 print("Predicted Category:", predicted_category[0])
 
-
-![Screenshot of code](screenshots/Task%206%20ss3.png)
 ![Task 6 Screenshot](../screenshots/Task%206%20ss3.png)
 
 
