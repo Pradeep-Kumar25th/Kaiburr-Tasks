@@ -76,6 +76,7 @@ imbipulkumar <br/>
 
 ## Task 6
 **GOTO:**   [Task 6 Source Code and Documentation](/task6)
-![WebUiForms](screenshots/Task 6 ss3.png)  screenshots/Task 6 ss3.png
+![WebUiForms](screenshots/Task 6 ss1.png)  screenshots/Task 6 ss3.png
+screenshots/Task 6 ss1.png
 
 
