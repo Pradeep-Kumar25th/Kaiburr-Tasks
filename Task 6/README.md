@@ -22,11 +22,17 @@ Before training the model, the code performs the following text preprocessing st
 Handling missing values in the 'Consumer complaint narrative' column by replacing them with empty strings.
 Splitting the data into training and testing sets using a 80-20 split ratio.
 Text vectorization using TF-IDF (Term Frequency-Inverse Document Frequency) to convert the complaint text into numerical features that can be used by the model.
+
+![Task 6 Screenshot](../screenshots/Task%206%20ss2.png)
+
+
 ## Model Training
 The code trains a Multinomial Naive Bayes classifier using the TF-IDF transformed training data. The classifier is used to predict the product categories for the test data.
 
 ## Model Evaluation
 After training the model, the code evaluates its performance by generating a classification report, which includes metrics such as precision, recall, and F1-score for each product category. The zero_division parameter is set to 1 to handle cases where there are no true positives for a category.
+
+![Task 6 Screenshot](../screenshots/Task%206%20ss3.png)
 
 ## Making Predictions
 The code also demonstrates how to make predictions using the trained model. You can provide a new complaint text as input, and the model will predict the associated product category.
@@ -38,7 +44,8 @@ new_complaint_tfidf = tfidf_vectorizer.transform(new_complaint)
 predicted_category = classifier.predict(new_complaint_tfidf)
 print("Predicted Category:", predicted_category[0])
 
-![Task 6 Screenshot](../screenshots/Task%206%20ss3.png)
+![Task 6 Screenshot](../screenshots/Task%206%20ss4.png)
+
 
 
 
