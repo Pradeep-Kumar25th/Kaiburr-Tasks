@@ -52,7 +52,7 @@ imbipulkumar <br/>
 
 ## Task 1
 
-**GOTO:**	[Task 1 Source Code and Documentation](/task1)
+**GOTO:**	[Task 1 Source Code and Documentation]((https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%201)
 
 ![GetAllServ](/screenshots/getAllServerPostManIO.PNG)
 
