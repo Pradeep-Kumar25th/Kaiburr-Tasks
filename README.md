@@ -69,5 +69,5 @@ imbipulkumar <br/>
 
 **GOTO:**	[Task 4 Source Code and Documentation](/task4)
 
-![WebUiForms](/screenshots/task4WebUIForm.PNG)
+![WebUiForms](screenshots/task4WebUIForm.png)
 
