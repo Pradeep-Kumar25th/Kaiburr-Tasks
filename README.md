@@ -52,25 +52,25 @@ imbipulkumar <br/>
 
 ## Task 1
 
-**GOTO:**	[Task 1 Source Code and Documentation]((https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%201)
+**GOTO:**	[Task 1 Source Code and Documentation](/Task%201)
 
 ![GetAllServ](/screenshots/getAllServerPostManIO.PNG)
 
 ## Task 2
 
-**GOTO:**	[Task 2 Source Code and Documentation]([/spring-server-generated](https://github.com/Pradeep-Kumar25th/Kaiburr-Tasks/tree/main/Task%202))
+**GOTO:**	[Task 2 Source Code and Documentation](/Task%202)
 
 ![SwaggerUi](/screenshots/task2SwaggerDoc.PNG)
 
 ## Task 3
 
-**GOTO:**	[Task 3 Source Code and Documentation](/Task%201)
+**GOTO:**	[Task 3 Source Code and Documentation](/Task%203)
 
 ![DockerContainer](/screenshots/task3dockerServExcAndLogs.PNG)
 
 ## Task 4
 
-**GOTO:**	[Task 4 Source Code and Documentation](/task4)
+**GOTO:**	[Task 4 Source Code and Documentation](/Task%204)
 
 ![WebUiForms](screenshots/task4WebUIForm.png)
 
