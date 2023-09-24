@@ -2,11 +2,7 @@
 
 Kaiburr Assessment Tasks
 
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40/)
 
-## Local Build Demo
-
-![Kaiburr Web Ui Form](/screenshots/task4WebUiForm.gif)
 
 ## Tasks Completed
 
