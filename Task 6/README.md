@@ -40,6 +40,8 @@ print("Predicted Category:", predicted_category[0])
 
 
 ![Screenshot of code](screenshots/Task%206%20ss3.png)
+![Task 6 Screenshot](../screenshots/Task%206%20ss3.png)
+
 
 
 
