@@ -36,6 +36,7 @@ predicted_category = classifier.predict(new_complaint_tfidf)
 print("Predicted Category:", predicted_category[0])
 
 
-![Screenshot of code](screenshots/Task 6 ss3.png)
+![Screenshot of code](screenshots/Task%206%20ss3.png)
+
 
 
