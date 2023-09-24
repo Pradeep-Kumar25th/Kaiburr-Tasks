@@ -35,7 +35,7 @@ new_complaint_tfidf = tfidf_vectorizer.transform(new_complaint)
 predicted_category = classifier.predict(new_complaint_tfidf)
 print("Predicted Category:", predicted_category[0])
 
-![DS](screenshots/Task 6 ss3.png)
 
-![GetAllServ](Task 6/Task 6 ss3.png)
+![Screenshot of code](screenshots/Task 6 ss3.png)
+
 
