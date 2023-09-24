@@ -10,6 +10,8 @@ Kaiburr Assessment Tasks
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
 - [x] [Task 3. Docker compose](/task3)
 - [x] [Task 4. WEB UI Forms](/task4)
+- [x] [Task 6. Data Science example.
+](/task6)
 
 ## High-level Directory Overview
 
